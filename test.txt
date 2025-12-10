@@ -2,4 +2,5 @@ modifica 1
 modifica 2
 modifica su branch fastForward
 modifica fatta su recursive Branch
+conflitto
 
